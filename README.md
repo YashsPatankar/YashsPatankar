@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:yashpatankar86@gmail.com">📧 yashpatankar86@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/your-link">💼 LinkedIn</a> • 
+  <a href="[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/yashpatankar86/)">💼 LinkedIn</a> • 
   📍 Belagavi, India
 </p>
 
@@ -69,5 +69,5 @@ Tech: Java, Android Studio, SQLite
 
 💬 Always open to internships, collaborations, or simply networking!  
 📩 [Email me](yashpatankar86@gmail.com)  
-🌐 [LinkedIn](www.linkedin.com/in/yashpatankar86)
+🌐 [LinkedIn](https://www.linkedin.com/in/yashpatankar86/)
 
