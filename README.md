@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:yashpatankar86@gmail.com">📧 yashpatankar86@gmail.com</a> • 
-  <a href="[https://www.linkedin.com/in/yashpatankar86/]">💼 LinkedIn</a> • 
+ <a href="https://www.linkedin.com/in/yashpatankar86/">💼 LinkedIn</a> • 
   📍 Belagavi, India
 </p>
 
