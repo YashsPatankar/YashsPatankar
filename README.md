@@ -68,6 +68,6 @@ Tech: Java, Android Studio, SQLite
 ### 📫 Let's Connect
 
 💬 Always open to internships, collaborations, or simply networking!  
-📩 [Email me](yashpatankar86@gmail.com)  
+📩 [Email me](yashpatankar86@gmail.com) 
 🌐 [LinkedIn](https://www.linkedin.com/in/yashpatankar86/)
 
