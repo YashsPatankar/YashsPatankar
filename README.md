@@ -46,7 +46,7 @@
 ### 🧾 **ERP Platform for Educational Institutes**
 > Full-stack web app that streamlines admin and student management for colleges.  
 ✅ Java + Spring Boot backend, React frontend, MySQL DB, REST APIs, and email/payment integration  
-📎 *[GitHub Repo](#)* (Add link here)
+📎 *[GitHub Repo](#)* (https://github.com/YashsPatankar/erp.cse.org)
 
 ---
 
