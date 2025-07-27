@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/105369334?v=4" width="180" height="180" style="border-radius:50%" alt="Yash Patankar" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Yash Patankar</h1>
 <h3 align="center">🚀 DevOps Engineer | 🐧 Linux Pro | 💻 Java Full Stack Developer | 🤖 ML Explorer | 🔄 CI/CD Automator</h3>
 
@@ -37,26 +41,33 @@
 
 ---
 
-## 📂 Featured Projects
+## 💼 Featured Projects
 
-### 🚀 **CI/CD Pipeline for Flask App**
-> Automated deployment using Docker, Jenkins & GitHub Actions on AWS EC2.  
-🔧 *Tech*: Flask, Docker, Jenkins, AWS EC2  
-📎 *[Repo coming soon]*
+### 🚧 **CI/CD Pipeline for Flask App**
+> Built a real-time CI/CD pipeline using Docker, Jenkins & AWS EC2 to deploy a Python Flask app on push.  
+🛠️ Tools: Python, Flask, Docker, Jenkins, GitHub, AWS EC2  
+📎 *[GitHub Repo](#)* (Coming Soon)
 
 ---
 
 ### 🧾 **ERP System for Educational Institutions**
-> Full-stack ERP system for managing academic and admin workflows.  
-🛠️ Java, Spring Boot, React.js, REST APIs, MySQL  
+> Full-stack ERP system to manage institutional workflows like students, staff, and admin.  
+✅ Java + Spring Boot backend, React frontend, MySQL DB, REST APIs, email/payment integrations  
 📎 [View Repo](https://github.com/YashsPatankar/erp.cse.org)
 
 ---
 
-### 🍃 **Eggplant Leaf Disease Detection**
-> Machine learning image classifier for brinjal disease detection.  
-🧠 CNN, Random Forest, Image Preprocessing  
-📎 *[Link coming soon]*
+### 🏠 **Capstone: IoT-Based Apartment Management System**
+> Smart web + IoT system for resource monitoring and fire alerts in apartments.  
+🚨 Used React.js & TailwindCSS for dashboard, NodeMCU with MQ-1 & DHT11 sensors for real-time detection, Firebase for cloud syncing.  
+📎 [GitHub Repo](https://github.com/YashsPatankar/kleiotapp1)
+
+---
+
+### 🍃 **Eggplant Leaf Disease Detection (ML)**
+> Built an ML classifier using CNN, Random Forest, and SVM to identify brinjal leaf diseases from images.  
+🧠 Image preprocessing, segmentation, data augmentation, model evaluation  
+📎 *[GitHub Repo](#)* (Add when available)
 
 ---
 
@@ -78,4 +89,3 @@
 ---
 
 > _"Automate everything. Break nothing. Learn forever."_ 💡
-
