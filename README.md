@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/105369334?v=4" width="180" height="180" style="border-radius:50%" alt="Yash Patankar" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Yash Patankar</h1>
 <h3 align="center">🚀 DevOps Engineer | 🐧 Linux Pro | 💻 Java Full Stack Developer | 🤖 ML Explorer | 🔄 CI/CD Automator</h3>
